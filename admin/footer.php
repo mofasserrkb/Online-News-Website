@@ -3,7 +3,7 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12">
-                <span>Online News Website|© Copyright 2021| Powered by MD.Mofasser Hossain</span>
+                <span> Powered by MD.Mofasser Hossain|Online News Website|© Copyright 2021</span>
             </div>
         </div>
     </div>
