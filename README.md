@@ -21,3 +21,5 @@ Responsive website
 ![Capture6](https://user-images.githubusercontent.com/60401072/132996128-de3533a8-8450-4b21-82da-aa68cb1c94f8.PNG)
 
 Admin Panel
+
+![Capture7](https://user-images.githubusercontent.com/60401072/132996304-da408c08-3bae-4477-8535-68aecef2bfe4.PNG)
