@@ -25,3 +25,5 @@ Admin Panel
 ![Capture7](https://user-images.githubusercontent.com/60401072/132996304-da408c08-3bae-4477-8535-68aecef2bfe4.PNG)
 
 ![Capture8](https://user-images.githubusercontent.com/60401072/132996531-18224cb6-0dd4-4c13-9675-269899aeb4a7.PNG)
+
+![Capture10](https://user-images.githubusercontent.com/60401072/132996583-a53a98ff-35cb-4b96-a244-a7d9dd7f8941.PNG)
