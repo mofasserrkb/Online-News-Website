@@ -19,3 +19,5 @@ If anyone want to  search any news,then there is  a search bar where anyone can 
 Responsive website
 
 ![Capture6](https://user-images.githubusercontent.com/60401072/132996128-de3533a8-8450-4b21-82da-aa68cb1c94f8.PNG)
+
+Admin Panel
