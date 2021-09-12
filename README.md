@@ -15,3 +15,7 @@ If anyone want to read specific category  news ,then there is option to get the 
 If anyone want to  search any news,then there is  a search bar where anyone can search any news. If any news is found related to the search text then this website shows the result like below
 
 ![Capture5](https://user-images.githubusercontent.com/60401072/132995898-7ac470e8-5df5-4909-a583-1e11616ec588.PNG)
+
+Responsive website
+
+![Capture6](https://user-images.githubusercontent.com/60401072/132996128-de3533a8-8450-4b21-82da-aa68cb1c94f8.PNG)
