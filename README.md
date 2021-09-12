@@ -2,4 +2,4 @@ This project contains multiple categories like International news, Politics, Spo
 
 Home page of this website is below
 
-
+![Capture2](https://user-images.githubusercontent.com/60401072/132993352-66cff833-1a6c-4854-ae1d-604eebc59fe0.PNG)
