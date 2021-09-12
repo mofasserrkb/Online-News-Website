@@ -11,3 +11,5 @@ If a reader want to read full ariticle of a news then reader has to click the Re
 If anyone want to read specific category  news ,then there is option to get the specific news. A example is below if a reader click the politics category. 
 
 ![Capture4](https://user-images.githubusercontent.com/60401072/132995404-3c3da25b-b216-447c-883e-01f78f71c13e.PNG)
+
+If anyone want to  search any news,then there is  a search bar where anyone can search any news. If any news is found related to the search text then this website shows the result like below
