@@ -9,3 +9,5 @@ If a reader want to read full ariticle of a news then reader has to click the Re
 ![Capture3](https://user-images.githubusercontent.com/60401072/132994489-6b3e6bba-424a-460f-b674-c2e2bfd84279.PNG)
 
 If anyone want to read specific category  news ,then there is option to get the specific news. A example is below if a reader click the politics category. 
+
+![Capture4](https://user-images.githubusercontent.com/60401072/132995404-3c3da25b-b216-447c-883e-01f78f71c13e.PNG)
