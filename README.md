@@ -7,3 +7,4 @@ Home page of this website is below
 If a reader want to read full ariticle of a news then reader has to click the Read more button. here is the example of a single page after clicking Read more button.
 
 ![Capture3](https://user-images.githubusercontent.com/60401072/132994489-6b3e6bba-424a-460f-b674-c2e2bfd84279.PNG)
+
